@@ -1,0 +1,9 @@
+Proceso Ejercicio_3
+	fac <- 1;
+	Escribir "Ingrese un numero";
+	leer n;
+	para x=1 hasta n con paso 1 Hacer
+		fac<-fac*x;
+	FinPara
+	Escribir "El factorial de ",n," es ",fac;
+FinProceso
